@@ -8,9 +8,10 @@ import { SparklesIcon } from "@heroicons/react/20/solid";
 export default function HeroContent() {
   return (
     <motion.div
+      id="about-me"
       initial="hidden"
       animate="visible"
-      className="flex flex-row items-center justify-center px-20 mt-40 w-full z-[20]"
+      className="flex flex-row  items-center justify-center px-20 mt-40 w-full z-[20]"
     >
       <div className="h-full w-full flex flex-col gap-5 justify-center m-auto text-start">
         <motion.div
