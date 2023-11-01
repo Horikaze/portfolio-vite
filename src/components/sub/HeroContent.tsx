@@ -32,7 +32,7 @@ export default function HeroContent() {
               {" "}
               the best{" "}
             </span>
-            project experience
+            project exprience
           </span>
         </motion.div>
         <motion.p
