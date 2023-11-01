@@ -1,5 +1,6 @@
 import Encryption from "./components/main/Encryption";
 import Hero from "./components/main/Hero";
+import Projects from "./components/main/Projects";
 import Skills from "./components/main/Skills";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
         <Hero />
         <Skills />
         <Encryption />
+        <Projects />
       </div>
     </main>
   );
